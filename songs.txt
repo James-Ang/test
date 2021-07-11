@@ -8,3 +8,4 @@ these are oldies:
 4) add this line to test merge (fast forward)
 5) boom booom
 6) add number 6
+7) add number 7 second commit
