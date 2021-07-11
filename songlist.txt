@@ -10,4 +10,8 @@ addded this line for deleting
 5) exercise 1
 6) exercise 2
 7) exercise 3
+<<<<<<< HEAD
 8) exercise 5
+=======
+8) exercise 4
+>>>>>>> exercise_merge
