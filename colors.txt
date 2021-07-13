@@ -2,4 +2,4 @@ red
 orange 
 yellow
 blue 
-purple
+indigo
