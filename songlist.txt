@@ -8,7 +8,7 @@ addded this line for deleting
 3) the octopus
 4) live with me
 5) exercise 1
-6) exercise 2
-7) exercise 3
+6) exercise 2 - git diff
+7) exercise 3 - git diff
 8) exercise 5
-8) exercise 4
+9) exercise 4
