@@ -4,3 +4,4 @@ three
 four
 pancake color
 test waffle
+add pancake 2
